@@ -1,14 +1,0 @@
-
-z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8‚Ğ×ù½1
-G
-java:S1197"*Move the array designators [] to the type.(©íôŒ8…Ğ×ù½1
-G	java:S106
-"+Replace this use of System.out by a logger.(Ä™¶Æ8…Ğ×ù½1
-G	java:S106"+Replace this use of System.out by a logger.(½šÆÛ8†Ğ×ù½1
-G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8†Ğ×ù½1
-F	java:S106"+Replace this use of System.out by a logger.(š²ıc8†Ğ×ù½1
-G	java:S106"+Replace this use of System.out by a logger.(‚ÎšÛ8†Ğ×ù½1
-G	java:S106"+Replace this use of System.out by a logger.(èå”8†Ğ×ù½1
-G	java:S106"+Replace this use of System.out by a logger.(¯Óêï8‡Ğ×ù½1
-G	java:S106"+Replace this use of System.out by a logger.(‰¨ËÓ8‡Ğ×ù½1
-L	java:S106"+Replace this use of System.out by a logger.(äßŸµşÿÿÿÿ8‡Ğ×ù½1
